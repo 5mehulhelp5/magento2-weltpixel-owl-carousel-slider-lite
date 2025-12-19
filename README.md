@@ -12,7 +12,7 @@ $ composer config repositories.weltpixel-magento2-weltpixel-backend git https://
 $ composer require weltpixel/magento2-weltpixel-backend:dev-master
 
 $ composer config repositories.weltpixel-magento2-weltpixel-owl-carousel-slider-lite git https://github.com/Weltpixel/magento2-weltpixel-owl-carousel-slider-lite.git
-$ composer require weltpixel/magento2-weltpixel-owl-carousel-slider-lite:dev-master-free
+$ composer require weltpixel/magento2-weltpixel-owl-carousel-slider-lite:dev-master
 ```
 
 
